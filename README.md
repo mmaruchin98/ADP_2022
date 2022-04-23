@@ -21,7 +21,7 @@ Update the table (today you need to fill at least first two columns)
 | Białecki Jakub | [jakub-bialecki](https://github.com/Kubinho1) | [SNP](https://github.com/zofiakk/SNP) | Julia Smolik, Zofia Kochańska |
 | Marcin Klimko | [marcin-klimko](https://github.com/Marcin11111) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Elżbieta Karpińska |
 | Elżbieta Karpińska | [elzbieta-karpinska](https://github.com/ekarpinska) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko |
-
+| Maruchin Michał | [michal-maruchin](https://github.com/mmaruchin98) | [POB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds) | Marcin Klimko,  Elżbieta Karpińska |
  
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
